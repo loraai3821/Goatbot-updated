@@ -16,7 +16,7 @@ module.exports = {
     author: "nexo_here",
     shortDescription: "Show bot status & uptime",
     longDescription: "Displays uptime, system specs and resource usage.",
-    category: "system",
+    category: "info",
     guide: "{pn}"
   },
 
